@@ -17,9 +17,9 @@
     "jspdf": "^2.5.2",
     "jspdf-autotable": "^3.8.4",
     "lucide-react": "^0.344.0",
-    "react": "^16.14.0",
+    "react": "^18.0.0", // Updated version
+    "react-dom": "^18.0.0", // Updated version
     "react-beautiful-dnd": "^13.1.1",
-    "react-dom": "^16.14.0",
     "react-draggable": "^4.4.6",
     "react-icons": "^5.4.0",
     "react-speech-kit": "^3.0.1"
